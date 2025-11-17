@@ -73,7 +73,7 @@ Clutter & Occlusion: Sliding Window Pre-Processing (Implemented in the `app.py` 
 
 1.  Clone the Repository:
     
-    git clone [Your Repository URL]
+    git clone [ Repository URL]
 2.  Install Dependencies:
     
     pip install tensorflow numpy gradio
