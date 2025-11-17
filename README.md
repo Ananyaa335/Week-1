@@ -15,6 +15,7 @@ Key Technologies Used
 * Framework: TensorFlow / Keras (Python)
 * Model: MobileNetV2 (Pre-trained on ImageNet)
 * Data: Garbage Classification (12 classes) - Kaggle
+* Dataset Link : https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 * Hardware: Google Colab GPU (NVIDIA T4)
 
 In Week 2, I successfully implemented the core of the Transfer Learning process:
